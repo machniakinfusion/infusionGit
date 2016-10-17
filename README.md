@@ -1,5 +1,5 @@
 # infusionGit
-fdsfdsfdsfdsfdsfsdfdsfdsfdsfdstretretrePOC for GIT testing
+fdsfdsfdsfdstretretrePOC for GIT testing
 cdfvds
 
 
